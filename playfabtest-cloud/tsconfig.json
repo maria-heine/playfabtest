@@ -1,0 +1,11 @@
+{
+    "compilerOptions": {        
+        "outFile":"./Build/cloudscript.js",
+        "allowJs": false,
+        "target": "es6"
+    },
+    "include": [
+        "./Source/**/*",
+        "./Scripts/**/*"
+    ]
+}
